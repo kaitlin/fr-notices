@@ -1702,12 +1702,14 @@
         <P>(i) To CMS, at least 90 days prior to the intended date of termination. This notice must specify the reasons why the endorsed sponsor is requesting contract termination; and</P>
         <P>(ii) To its discount card enrollees, by mail, at least 60 days prior to the termination effective date. This notice must include a written description of alternative endorsed discount card programs that serve the discount card enrollee's address.</P>
         <P>(3) <E T="03">Effective date of termination.</E> The effective date of the termination is determined by CMS and is at least 90 days after the date CMS receives the endorsed sponsor's notice of intent to terminate.</P>
-        <P>(e) <E T="03">Termination by mutual consent.</E> (1) A contract may be modified or terminated at any time by written mutual consent.</P>
+        <P>(e) <E T="03">Termination by mutual consent.</E></P>
+        <P>(1) A contract may be modified or terminated at any time by written mutual consent.</P>
         <P>(2) If the contract is terminated by mutual consent, the endorsed sponsor must provide notice to its discount card enrollees as provided in paragraph (d)(2) of this section.</P>
         <P>(3) If the contract is modified by mutual consent, the endorsed sponsor must provide notice to its discount card enrollees of any changes that CMS determines are appropriate for notification within timeframes specified by CMS.</P>
-        <P>(f) <E T="03">Appeal of contract determinations</E>—(1) <E T="03">Scope.</E> This section establishes the procedures for reviewing the following contract determinations:</P>
+        <P>(f) <E T="03">Appeal of contract determinations</E>—</P>
+        <P>(1) <E T="03">Scope.</E> This section establishes the procedures for reviewing the following contract determinations:</P>
         <P>(i) A determination that an applicant is not qualified to enter into a contract with CMS under section 1860D-31 of the Act; and</P>
-        <P>(i) A determination to terminate a contract with an endorsed sponsor in accordance with paragraph (c) of this section.</P>
+        <P>(ii) A determination to terminate a contract with an endorsed sponsor in accordance with paragraph (c) of this section.</P>
         <P>(2) <E T="03">Notice of determination.</E> When CMS makes an initial contract determination, it gives the endorsed sponsor or applicant written notice specifying—</P>
         <P>(i) The reasons for the determination; and</P>
         <P>(ii) The endorsed sponsor's or applicant's right to request reconsideration.</P>
@@ -1861,13 +1863,13 @@
         <P>(7) <E T="03">Nature of payment or transfer of value.</E> The nature of each payment or other transfer of value, as described in paragraph (e) of this section.</P>
         <P>(8) <E T="03">Related covered drug, device, biological or medical supply.</E> Report the marketed name of the related covered drugs, devices, biologicals, or medical supplies, and therapeutic area or product category unless the payment or other transfer of value is not related to a particular covered drug, device, biological or medical supply.</P>
 
-        <P>(i) For drugs and biologicals, if the marketed name has not yet been selected, applicable manufacturers must indicate the name registered on <E T="03">clinicaltrials.gov.</E>
-        </P>
+        <P>(i) For drugs and biologicals, if the marketed name has not yet been selected, applicable manufacturers must indicate the name registered on <E T="03">clinicaltrials.gov.</E></P>
         <P>(ii) Applicable manufacturers may report the marketed name and therapeutic area or product category for payments or other transfers of value related to a non-covered drug, device, biological, or medical supply.</P>
         <P>(iii) Applicable manufacturers must indicate if the related drug, device, biological, or medical supply is covered or non-covered.</P>
         <P>(iv) Applicable manufacturers must indicate if the payment or other transfer of value is not related to any covered or non-covered drug, device, biological or medical supply.</P>
         <P>(9) <E T="03">Eligibility for delayed publication.</E> Applicable manufacturers must indicate whether a payment or other transfer of value is eligible for delayed publication, as described in § 403.910.</P>
-        <P>(10) <E T="03">Payments to third parties.</E> (i) If the payment or other transfer of value was provided to a third party at the request of or designated on behalf of a covered recipient, the payment or transfer of value must be reported in the name of that covered recipient.</P>
+        <P>(10) <E T="03">Payments to third parties.</E> </P>
+        <P>(i) If the payment or other transfer of value was provided to a third party at the request of or designated on behalf of a covered recipient, the payment or transfer of value must be reported in the name of that covered recipient.</P>
         <P>(ii) If the payment or other transfer of value was provided to a third party at the request of or designated on behalf of a covered recipient, the name of the entity that received the payment or other transfer of value (if made to an entity) or indicate “individual” (if made to an individual). If a covered recipient performed a service, but neither accepted the offered payment or other transfer of value nor requested that it be made to a third party, the applicable manufacturer is not required to report the offered payment or other transfer of value unless the applicable manufacturer nonetheless provided it to a third party and designated such payment or other transfer of value as having been provided on behalf of the covered recipient.</P>
         <P>(11) <E T="03">Payments or transfers of value to physician owners or investors.</E> Must indicate whether the payment or other transfer of value was provided to a physician or the immediate family of the physician who holds an ownership or investment interest (as defined § 403.902) in the applicable manufacturer.</P>
         <P>(12) <E T="03">Additional information or context for payment or transfer of value.</E> May provide a statement with additional context for the payment or other transfer of value.</P>
@@ -1878,8 +1880,8 @@
         <P>(4) Stock option.</P>
         <P>(5) Any other ownership interest.</P>
         <P>(6) Dividend, profit or other return on investment.</P>
-        <P>(e) <E T="03">Reporting the nature of the payment or other transfer of value.</E> (1) <E T="03">General rule.</E> The categories describing the nature of a payment or other transfer of value are mutually exclusive for the purposes of reporting under subpart I of this part.<PRTPAGE P="111"/>
-        </P>
+        <P>(e) <E T="03">Reporting the nature of the payment or other transfer of value.</E> </P>
+        <P>(1) <E T="03">General rule.</E> The categories describing the nature of a payment or other transfer of value are mutually exclusive for the purposes of reporting under subpart I of this part.<PRTPAGE P="111"/></P>
         <P>(2) <E T="03">Rules for categorizing natures of payment.</E> An applicable manufacturer must categorize each payment or other transfer of value, or separable part of that payment or transfer of value, with one of the categories listed in paragraphs (e)(2)(i) through (xvii) of this section, using the designation that best describes the nature of the payment or other transfer of value, or separable part of that payment or other transfer of value. If a payment or other transfer of value could reasonably be considered as falling within more than one category, the applicable manufacturer should select one category that it deems to most accurately describe the nature of the payment or transfer of value.</P>
         <P>(i) Consulting fee.</P>
         <P>(ii) Compensation for services other than consulting, including serving as faculty or as a speaker at an event other than a continuing education program.</P>
@@ -1915,16 +1917,17 @@
         <P>(vi) Contextual information for research (optional).</P>
         <P>(vii) ClinicalTrials.gov identifier (optional).</P>
 
-        <P>(2) For pre-clinical studies (before any human studies have begun), only report the following information:<PRTPAGE P="112"/>
-        </P>
+        <P>(2) For pre-clinical studies (before any human studies have begun), only report the following information:<PRTPAGE P="112"/></P>
         <P>(i) Research entity name (as required in paragraph (f)(1)(i) of this section).</P>
         <P>(ii) Total amount of payment (as required in paragraph (f)(1)(ii) of this section).</P>
-        <P>(ii) Principal investigator(s) (as required in paragraph (f)(1)(v) of this section).</P>
-        <P>(g) <E T="03">Special rules for reporting food and beverage.</E> (1) When allocating the cost of food and beverage among covered recipients in a group setting where the cost of each individual covered recipient's meal is not separately identifiable, such as a platter provided to physicians in a group practice setting, applicable manufacturers must calculate the value per person by dividing the entire cost of the food or beverage by the total number of individuals who partook in the meal (including both covered recipients and non-covered recipients, such as office staff). The per person value of the meal must be reported as a payment or other transfer of value only for covered recipients who actually partook in the food or beverage.</P>
+        <P>(iii) Principal investigator(s) (as required in paragraph (f)(1)(v) of this section).</P>
+        <P>(g) <E T="03">Special rules for reporting food and beverage.</E></P>
+        <P>(1) When allocating the cost of food and beverage among covered recipients in a group setting where the cost of each individual covered recipient's meal is not separately identifiable, such as a platter provided to physicians in a group practice setting, applicable manufacturers must calculate the value per person by dividing the entire cost of the food or beverage by the total number of individuals who partook in the meal (including both covered recipients and non-covered recipients, such as office staff). The per person value of the meal must be reported as a payment or other transfer of value only for covered recipients who actually partook in the food or beverage.</P>
         <P>(2) Applicable manufacturers are not required to report or track buffet meals, snacks, soft drinks, or coffee made generally available to all participants of a large-scale conference or similar large-scale event.</P>
         <P>(h) <E T="03">Exclusions from reporting.</E> The following are excluded from the reporting requirements specified in this section:</P>
         <P>(1) Indirect payments or other transfers of value (as defined in § 403.902), where the applicable manufacturer is unaware of the identity of the covered recipient. An applicable manufacturer is unaware of the identity of a covered recipient if the applicable manufacturer does not know (as defined in § 403.902) the identity of the covered recipient during the reporting year or by the end of the second quarter of the following reporting year.</P>
-        <P>(2)(i) For CY 2013, payments or other transfers of value less than $10, unless the aggregate amount transferred to, requested by, or designated on behalf of the covered recipient exceeds $100 in a calendar year.</P>
+        <P>(2)</P>
+        <P>(i) For CY 2013, payments or other transfers of value less than $10, unless the aggregate amount transferred to, requested by, or designated on behalf of the covered recipient exceeds $100 in a calendar year.</P>
         <P>(ii) For CY 2014 and subsequent calendar years, to determine if transfers of value are excluded under this section, the dollar amounts specified in paragraph (h)(2)(i) of this section must be increased by the same percentage as the percentage increase in the consumer price index for all urban consumers (all items; U.S. city average) for the 12-month period ending with June of the previous year. CMS will publish the values for the next reporting year 90 days before the beginning of the reporting year.</P>
         <P>(iii) Payments or other transfers of value of less than $10 in CY 2013 (or less than the amount described in paragraph (h)(2)(i) of this section for CY 2014 and subsequent calendar years) provided at large-scale conferences and similar large-scale events, as well as events open to the public, do not need to be reported nor included for purposes of the $100 aggregate threshold in CY 2013 (or the aggregate threshold calculated in accordance paragraph (h)(2)(i) of this section for CY 2014 and subsequent calendar years), even if the aggregate total for a covered recipient exceeds the aggregate threshold for the calendar year.</P>
         <P>(iv) When reporting payments or other transfers of value under the $10 threshold for CY 2013 (or under the amount described in paragraph (i)(2)(ii) of this section for CY 2014 and subsequent calendar years) for covered recipients that exceed the aggregate threshold for the reporting year, applicable manufacturers may (but are not required to) report all small payments to a particular covered recipient that fall within the same nature of payment category as a single payment or other transfer of value.</P>
